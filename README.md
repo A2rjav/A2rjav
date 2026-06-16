@@ -1,88 +1,82 @@
-<!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Aarjav!&fontSize=30&animation=fadeIn&fontAlignY=38&desc=Building%20the%20future%20with%20Code%20&%20AI&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A1C71,50:D76D77,100:FFAF7B&height=250&section=header&text=Aarjav%20Jain&fontSize=50&fontAlignY=35&desc=AI%20Engineer%20%7C%20LLM%20Specialist%20%7C%20Builder&descAlignY=55&descSize=20" alt="Header" />
 </div>
 
-<h1 align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Machine+Learning+Enthusiast;Deep+Learning+Explorer;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F76D77&center=true&vCenter=true&width=500&lines=Fine-tuning+Large+Language+Models;Building+Autonomous+AI+Agents;Architecting+RAG+Pipelines;Pushing+boundaries+of+Generative+AI" alt="Typing SVG" />
   </a>
-</h1>
+</div>
 
 ---
 
-### 👨‍💻 About Me
+### 🧠 The AI Frontier
 
-- 🔭 I’m currently working on **cutting-edge AI applications and scalable architectures**
-- 🌱 I’m currently learning **Advanced Deep Learning, LLMs, and MLOps**
-- 👯 I’m looking to collaborate on **open-source AI projects**
-- 🤔 I’m looking for help with **optimizing neural networks for edge devices**
-- 💬 Ask me about **Python, Machine Learning, System Design, and anything AI**
-- 📫 How to reach me: **aarjav1512@gmail.com**
-- ⚡ Fun fact: **I can debug code in my sleep!**
+I'm an AI maximalist deeply invested in the Generative AI ecosystem. My core focus lies in bridging the gap between state-of-the-art research models and scalable, real-world applications.
+
+- 🤖 **Current Obsessions:** Multi-Agent Systems, Long-Context LLMs, and Efficient Fine-Tuning (LoRA/QLoRA).
+- 🛠️ **What I build:** Production-ready RAG architectures, specialized AI coding assistants, and autonomous agents.
+- 📚 **Always learning:** Staying on the bleeding edge of ArXiv papers and open-weights releases.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### ⚡ AI & Tech Arsenal
 
-**Languages**
+**Generative AI & LLMOps**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=white" />
 </p>
 
-**AI / Machine Learning**
+**Deep Learning & Data**
 <p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
-**Frameworks & Technologies**
+**Backend & Architecture**
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A2rjav&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <a href="https://github.com/A2rjav">
+    <img src="https://github-readme-stats.vercel.app/api?username=A2rjav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=7928CA&text_color=A0AEC0&title_color=F76D77" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=A2rjav&theme=tokyonight&hide_border=true&background=0D1117&ring=7928CA&fire=F76D77&currStreakNum=A0AEC0" alt="GitHub Streak" width="48%" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A2rjav&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A2rjav&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A2rjav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F76D77" alt="Top Languages" />
 </div>
 
 ---
 
-### 🌐 Connect with Me
+### 📡 Let's Connect
 
-<p align="center">
+<div align="center">
   <a href="https://linkedin.com/in/aarjav-jain"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/A2rjav"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://twitter.com/A2rjav"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
   <a href="mailto:aarjav1512@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+</div>
 
-<!-- Optional: Profile view counter -->
+<br/>
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/A2rjav/count.svg" alt="Profile Views" />
+  <i>"The future belongs to those who build it."</i>
 </div>
